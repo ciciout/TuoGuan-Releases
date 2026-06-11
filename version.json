@@ -1,9 +1,9 @@
 {
-  "version": "2.1.2.0",
+  "version": "2.1.1.0",
   "build": "20260602",
-  "release_notes": "升级：测试程序升级功能",
-  "release_notes_english": "Testing app upgrade functionality",
+  "release_notes": "正式发布",
+  "release_notes_english": "Official Release",
   "url": "https://github.com/ciciout/TuoGuan-Releases/releases/download/v2.1.2.0/TuoGuan_Setup_2.1.2.0.exe",
-  "md5": "32D94172397E6D424E30B56219292A92",
-  "sha256": "E3D691419B41A6CC9248EDD385A6FC931EB99BCBE42E610F3AB6EC5796C30E68"
+  "md5": "7D09A5564CE1191994CBAE6425284365",
+  "sha256": "F5C171C4B4F819F3537D77C9816541BB0549BDEDB46D8DEDACCBCDF2B4523B8B"
 }
