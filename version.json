@@ -1,9 +1,9 @@
 {
-  "version": "2.1.1.0",
-  "build": "20260602",
+  "version": "2.1.1.1",
+  "build": "20260705",
   "release_notes": "正式发布",
   "release_notes_english": "Official Release",
-  "url": "https://github.com/ciciout/TuoGuan-Releases/releases/download/v2.1.1.0/TuoGuan_Setup_2.1.1.0.exe",
-  "md5": "BC68FDEDDCE8EA3322D830ADC4CB06DA",
-  "sha256": "D5A388B2C74BF2CF8C7E42679C53201ADA7E1E3B98ECDD917A8C78910E6C6A82"
+  "url": "https://github.com/ciciout/TuoGuan-Releases/releases/download/v2.1.1.1/TuoGuan_Setup_2.1.1.1.exe",
+  "md5": "0AC2282D863CB5D8551A6E0853043FCA",
+  "sha256": "1ED3381F28898E7FB6314225A5381ACB00BB3F45109093A99F9E70ADA1E801C1"
 }
