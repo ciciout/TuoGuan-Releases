@@ -1,8 +1,8 @@
 {
   "version": "2.1.1.1",
   "build": "20260705",
-  "release_notes": "正式发布",
-  "release_notes_english": "Official Release",
+  "release_notes": "更新：发布 v2.1.1.1 版本。修复已知程序缺陷，优化启动加载速度，同步适配最新版本界面规范。",
+  "release_notes_english": "Update: Version v2.1.1.1 released. Fixed known bugs, optimized startup speed, and aligned UI with the latest version specifications.",
   "url": "https://github.com/ciciout/TuoGuan-Releases/releases/download/v2.1.1.1/TuoGuan_Setup_2.1.1.1.exe",
   "md5": "0AC2282D863CB5D8551A6E0853043FCA",
   "sha256": "1ED3381F28898E7FB6314225A5381ACB00BB3F45109093A99F9E70ADA1E801C1"
